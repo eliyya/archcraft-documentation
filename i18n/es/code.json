@@ -3,28 +3,28 @@
     "message": "Archcraft"
   },
   "Yet another minimal Linux distribution, based on Arch Linux.": {
-    "message": "Yet another minimal Linux distribution, based on Arch Linux."
+    "message": "Otra distribución minimalista de Linux, basada en Arch Linux."
   },
   "Welcome to Archcraft Wiki": {
-    "message": "Welcome to Archcraft Wiki"
+    "message": "Bienvenido a la Wiki de Archcraft"
   },
   "Minimal": {
-    "message": "Minimal"
+    "message": "Minimalista"
   },
   "Archcraft is minimal and lightweight. It can run under 500Mb of memory as It only uses window managers and lightweight applications.": {
-    "message": "Archcraft is minimal and lightweight. It can run under 500Mb of memory as It only uses window managers and lightweight applications."
+    "message": "Archcraft es minimalista y ligero. Puede ejecutarse con menos de 500 Mb de memoria, ya que sólo utiliza gestores de ventanas y aplicaciones ligeras."
   },
   "Stunning": {
-    "message": "Stunning"
+    "message": "Impresionante"
   },
   "Flat and pastel colors, the consistency among all the UI elements, And various themes make Archcraft look very clean, minimal and Stunning.": {
-    "message": "Flat and pastel colors, the consistency among all the UI elements, And various themes make Archcraft look very clean, minimal and Stunning."
+    "message": "Los colores planos y pastel, la coherencia entre todos los elementos de la interfaz de usuario y los distintos temas, hacen que Archcraft tenga un aspecto muy limpio, minimalista e impactante."
   },
   "Powerful": {
-    "message": "Powerful"
+    "message": "Poderoso"
   },
   "With latest softwares and built-in support for AUR, and being lightweight, Archcraft gives you the power to do whatever you want on your Linux PC.": {
-    "message": "With latest softwares and built-in support for AUR, and being lightweight, Archcraft gives you the power to do whatever you want on your Linux PC."
+    "message": "Con los últimos softwares y soporte integrado para AUR, y siendo ligero, Archcraft te da el poder de hacer lo que quieras en tu PC Linux."
   },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",
@@ -174,11 +174,11 @@
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.admonition.caution": {
-    "message": "caution",
+    "message": "precaución",
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.admonition.danger": {
-    "message": "danger",
+    "message": "peligro",
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
@@ -186,7 +186,7 @@
     "description": "The default label used for the Info admonition (:::info)"
   },
   "theme.admonition.note": {
-    "message": "note",
+    "message": "nota",
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
@@ -194,7 +194,7 @@
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
-    "message": "warning",
+    "message": "advertencia",
     "description": "The default label used for the Warning admonition (:::warning)"
   },
   "theme.blog.sidebar.navAriaLabel": {
@@ -218,11 +218,11 @@
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'",
+    "message": "Expandir la categoría del sidebar '{label}'",
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'",
+    "message": "Colapsar la categoría del sidebar '{label}'",
     "description": "The ARIA label to collapse the sidebar category"
   },
   "theme.NavBar.navAriaLabel": {
