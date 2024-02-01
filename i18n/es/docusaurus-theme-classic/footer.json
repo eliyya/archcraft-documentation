@@ -4,31 +4,31 @@
     "description": "The title of the footer links column with title=Archcraft in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "Comunidad",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.Source": {
-    "message": "Source",
+    "message": "Fuente",
     "description": "The title of the footer links column with title=Source in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Más",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Home": {
-    "message": "Home",
+    "message": "Inicio",
     "description": "The label of footer link with label=Home linking to https://archcraft.io"
   },
   "link.item.label.Docs": {
-    "message": "Docs",
+    "message": "Documentación",
     "description": "The label of footer link with label=Docs linking to /docs/intro"
   },
   "link.item.label.Tutorials": {
-    "message": "Tutorials",
+    "message": "Tutoriales",
     "description": "The label of footer link with label=Tutorials linking to /blog"
   },
   "link.item.label.News": {
-    "message": "News",
+    "message": "Noticias",
     "description": "The label of footer link with label=News linking to /news"
   },
   "link.item.label.Reddit": {
@@ -60,11 +60,11 @@
     "description": "The label of footer link with label=Issues linking to https://github.com/archcraft-os/archcraft/issues"
   },
   "link.item.label.Documentations": {
-    "message": "Documentations",
+    "message": "Documentación",
     "description": "The label of footer link with label=Documentations linking to https://github.com/archcraft-os/documentation"
   },
   "link.item.label.Release Cycle": {
-    "message": "Release Cycle",
+    "message": "Ciclo de Release",
     "description": "The label of footer link with label=Release Cycle linking to https://archcraft.io/more"
   },
   "link.item.label.Sourceforge": {

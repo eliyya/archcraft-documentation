@@ -8,15 +8,15 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Docs": {
-    "message": "Docs",
+    "message": "Documentacion",
     "description": "Navbar item with label Docs"
   },
   "item.label.Tutorials": {
-    "message": "Tutorials",
+    "message": "Tutoriales",
     "description": "Navbar item with label Tutorials"
   },
   "item.label.News": {
-    "message": "News",
+    "message": "Noticias",
     "description": "Navbar item with label News"
   },
   "item.label.Github": {
